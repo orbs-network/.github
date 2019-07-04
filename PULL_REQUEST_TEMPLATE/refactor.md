@@ -1,8 +1,8 @@
 ---
 name: Refactor
 about: Major refactoring with no or little functionality changes.
-title: 'Fctr:'
-labels: ''
+title: ''
+labels: 'refactor'
 assignees: ''
 ---
 ### Goal
