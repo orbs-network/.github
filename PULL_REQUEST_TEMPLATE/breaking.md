@@ -2,7 +2,7 @@
 name: Breaking Enhancement
 about: Feature or refactor which breaks interfaces, API's, or behaviour
 title: ''
-labels: 'breaking change'
+labels: 'breaking'
 assignees: ''
 ---
 ### Goal
