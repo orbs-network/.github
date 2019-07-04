@@ -8,7 +8,7 @@ assignees: ''
 ### Issues
 fixes: 
 
-### Implementation Details
+### Details
 Explanations, hints for the reviewer, discussion points, implemetation choices/alternatives, known issues, caveats and apologies
 
 ### Related/Open issues
