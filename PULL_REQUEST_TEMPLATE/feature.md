@@ -1,5 +1,5 @@
 ---
-name: Feature
+name: 1. Feature
 about: Feature Proposal
 title: ''
 labels: 'feature'
