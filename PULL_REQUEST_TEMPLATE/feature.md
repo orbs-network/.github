@@ -1,8 +1,8 @@
 ---
 name: Feature
 about: Feature Proposal
-title: 'Ftr:'
-labels: ''
+title: ''
+labels: 'feature'
 assignees: ''
 ---
 ### Goal
