@@ -1,5 +1,5 @@
 ---
-name: Bug
+name: 2. Bug
 about: Suggested bugfix
 title: ''
 labels: 'bug'
