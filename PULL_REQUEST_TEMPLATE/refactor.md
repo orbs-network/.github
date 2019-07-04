@@ -1,5 +1,5 @@
 ---
-name: Refactor
+name: 3. Refactor
 about: Major refactoring with no or little functionality changes.
 title: ''
 labels: 'refactor'
