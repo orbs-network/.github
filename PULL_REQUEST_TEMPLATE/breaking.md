@@ -1,8 +1,8 @@
 ---
 name: Breaking Enhancement
 about: Feature or refactor which breaks interfaces, API's, or behaviour
-title: 'Brk:'
-labels: ''
+title: ''
+labels: 'breaking change'
 assignees: ''
 ---
 ### Goal
