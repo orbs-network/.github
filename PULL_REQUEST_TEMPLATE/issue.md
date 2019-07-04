@@ -1,8 +1,8 @@
 ---
 name: Bug
 about: Suggested bugfix
-title: 'Bgfx:'
-labels: ''
+title: ''
+labels: 'bug'
 assignees: ''
 ---
 ### Issues
