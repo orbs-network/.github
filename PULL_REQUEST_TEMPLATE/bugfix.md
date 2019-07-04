@@ -6,7 +6,7 @@ labels: 'bug'
 assignees: ''
 ---
 ### Issues
-fixes: 
+fixes #
 
 ### Details
 Explanations, hints for the reviewer, discussion points, implemetation choices/alternatives, known issues, caveats and apologies
