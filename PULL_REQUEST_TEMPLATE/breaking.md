@@ -1,6 +1,6 @@
 ---
-name: Breaking Enhancement
-about: Feature or refactor which breaks interfaces, API's, or behaviour
+name: 4. Breaking Change
+about: A feature or bugfix which breaks interfaces, behavior or implements a change in specification/protocol
 title: ''
 labels: 'breaking'
 assignees: ''
@@ -11,7 +11,7 @@ Keep it short... Any resolved issues?
 ### Description
 * Keep it short... high level bullets only please.
 
-### What's broken?
+### What's changed?
 * Keep it short... high level bullets only please 
 
 ### Details
